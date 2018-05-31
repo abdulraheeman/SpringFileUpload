@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 default.configuration=HibernatePro
+=======
+default.configuration=SpringFileupload
+>>>>>>> branch 'master' of https://github.com/abdulraheeman/SpringFileUpload.git
 eclipse.preferences.version=1
 hibernate3.enabled=true
